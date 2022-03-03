@@ -1,7 +1,7 @@
 # InterviewQuestionPractises
 This repository is for technical interview round. 
 
-#### Q1: 
+#### Q1: (Solution in JavaScript and Python)
 Given two array find an if they contain any common element \
 array1 = ['a','b','c','x'] \
 array2 = ['z','x','y'] \
