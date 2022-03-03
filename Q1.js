@@ -38,7 +38,7 @@ console.log(NaiveAppraoch1(array1,array2));
 //     'c' : true,
 //     'x' : true
 // }
-// then we have to write one more for loop which will check if value in array2 exist in hash object that we created.
+// then we have to write for loop which will check if value from array2 exists in hash object. If it exist then return true else false
 
 function FeasibleApproach(arr1,arr2){
     let map = {};
