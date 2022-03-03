@@ -21,6 +21,7 @@ function NaiveAppraoch1(arr1,arr2){
 }
 
 // After we write Naive Approach code, check if our solution is feasible and calculate time complexity
+// TimeComplexity  = O(m*n) where m=length(array1), n=length(array2)
 // For our solution, we have two nested for loop, so it has quadratic time complexity i.e. O(n^2)
 //Think about more feasible solution.
 
@@ -60,3 +61,4 @@ function FeasibleApproach(arr1,arr2){
 }
 
 console.log(FeasibleApproach(array1,array2))
+// Time Complexity of Feasible Appraoch = O(m+n)    where m=length(array1), n=length(array2)
