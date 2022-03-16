@@ -4,6 +4,16 @@
 // insert -> O(n)
 // delete -> O(n)
 
+// When to use Arrays
+// Pros:
+// 1) Fast Lookups
+// 2) Fast Push/Pop
+// 3) Ordered
+// cons:
+// 1) Slow inserts
+// 2) Slow deletes
+// 3) Fixed size* (if using static array)
+
 const strings = ['a','b','c','d'];
 console.log(strings[2]);
 
